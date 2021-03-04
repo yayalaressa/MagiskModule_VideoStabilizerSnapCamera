@@ -1,0 +1,1 @@
+# MagiskModule_VideoStabilizerSnapCamera
