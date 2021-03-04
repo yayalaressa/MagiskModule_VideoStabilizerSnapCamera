@@ -19,3 +19,4 @@ Yaya Laressa
 Instagram https://instagram.com/yohannes_aw
 
 ![GitHub all releases](https://img.shields.io/github/downloads/yayalaressa/MagiskModule_VideoStabilizerSnapCamera/total)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/yayalaressa/MagiskModule_VideoStabilizerSnapCamera)
