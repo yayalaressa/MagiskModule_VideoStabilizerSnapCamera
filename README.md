@@ -3,10 +3,11 @@
 If your smartphone dont have a EIS or OIS, you must try it! and check this.
 Good luck!
 
-Screenshot
+# Screenshot
+
 ![Video Stabilizer](https://github.com/yayalaressa/MagiskModule_VideoStabilizerSnapCamera/blob/main/Snap.jpg?raw=true)
 
-ROM Support
+# ROM Support
 1. AOSP Extended
 2. LineageOS
 3. Havoc-OS
