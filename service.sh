@@ -5,3 +5,7 @@ MODDIR=${0%/*}
 
 # This script will be executed in late_start service mode
 # More info in the main Magisk thread
+setprop persist.camera.gyro.android 20
+setprop persist.camera.HAL3.enabled 1
+setprop persist.camera.is_type 4
+setprop persist.camera.eis.enable 0
