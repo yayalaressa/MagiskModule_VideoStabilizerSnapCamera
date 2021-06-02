@@ -1,7 +1,4 @@
 # This file will be read by resetprop
 # Example: Change dpi
 # ro.sf.lcd_density=320
-persist.camera.gyro.android=20
-persist.camera.HAL3.enabled=1
-persist.camera.is_type=4
-persist.camera.eis.enable=0
+
